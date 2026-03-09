@@ -1,1 +1,1 @@
-# NP1-OPTIMA
+# NP1_OPTIMA
